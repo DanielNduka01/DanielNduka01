@@ -35,14 +35,12 @@ Transforming complex real-world challenges into performant, responsive, and data
 
 ###  Featured Projects
 
--  **Expense Tracker**: Interactive React application for managing personal finances and budget tracking.
--  **To-Do Web App**: Full-stack web application built to manage daily task workflows.
--  **AutoStore**: Storefront layout built with HTML and CSS.
-
+-  **[Expense Tracker](https://github.com/DanielNduka01/Expense-Tracker-React-project-)**: Interactive React application for managing personal finances and budget tracking.
+-  **[To-Do Web App](https://github.com/DanielNduka01/To-Do-Website)**: Full-stack web application built to manage daily task workflows.
+-  **[AutoStore](https://github.com/DanielNduka01/autostore)**: Storefront layout built with HTML and CSS.
 ---
 
-### Connect with Me
-### 📫 Connect with Me
+###  Connect with Me
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348065828486)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jxtdann)
